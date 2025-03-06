@@ -1,4 +1,5 @@
 # Today's Learnings
 
 -   import vs require
--   EventEmmiter
+-   EventEmmiter module
+-   readline module
