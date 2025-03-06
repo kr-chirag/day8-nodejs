@@ -1,3 +1,0 @@
-
-    name = nameIn;
-    rl.close();
